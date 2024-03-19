@@ -10,6 +10,8 @@ Bellabeat is a high-tech company that manufactures health focused products for w
 ## Data Source
 FitBit Fitness Tracker Data (kaggle.com). This data is collected from 30 users of the Fitabase products.
 
+![image](https://github.com/MrMitchellMoore/FitBit_BellaBeat/assets/10389750/868e090d-8998-49a5-8b22-ca33d006eb57)
+
 ## The Ask/Questions to be solved
 -	What are some trends in FitBit Smart device usage?
 -	How the trends can be applied to Bellabeat customers?
